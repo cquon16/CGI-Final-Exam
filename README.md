@@ -24,6 +24,8 @@ After COlour COrrection: ![image](https://github.com/user-attachments/assets/2de
 
 I added a darker colour grading LUT to the last enemy to simulate a dark theme to the game overall as shooting and killing enemies with a super scope is a rather evil and bad intention that you normally wouldn't think of the main character mario doing. 
 
+Colour Correction Implementation: Used Neatrul LUT and changed lightness and Saturation in Photoshop. Brought LUT into project and used with Colour Correction Shader
+
 
 
 
